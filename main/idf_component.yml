@@ -1,0 +1,6 @@
+dependencies:
+  idf:
+    version: '>=4.4.0'
+  espressif/esp_rainmaker: "*"
+  espressif/rmaker_app_network: "*"
+  espressif/qrcode: "*"
