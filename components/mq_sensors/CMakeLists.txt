@@ -1,3 +1,3 @@
-idf_component_register(SRCS "mq2.c"
+idf_component_register(SRCS "mq_sensors.c"
                        INCLUDE_DIRS "include"
                        REQUIRES esp_adc log)
