@@ -1,10 +1,4 @@
-# Loại bỏ thư mục build nặng nề
-build/
-
-# Loại bỏ cấu hình riêng của VS Code
 .vscode/
-
-# Loại bỏ các file tạm của ESP-IDF
+build/
 sdkconfig.old
-sdkconfig.defaults
 dependencies.lock
