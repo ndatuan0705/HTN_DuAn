@@ -5,7 +5,7 @@
 #include "freertos/task.h"
 #include "driver/gpio.h"
 
-// Chân cắm nút nhấn của bạn (Sửa nếu cần)
+// Chân cắm nút nhấn
 #define BUTTON_PIN GPIO_NUM_5 
 
 // Hàm khởi tạo, truyền vào Handle của Task cần nhận tín hiệu

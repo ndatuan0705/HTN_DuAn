@@ -15,7 +15,7 @@
 // --- THƯ VIỆN CÁC NGOẠI VI TỰ VIẾT ---
 #include "lcd_i2c.h"
 #include "dht11.h"
-#include "mq_sensors.h" // Thư viện cảm biến MQ đã được gộp gọn gàng
+#include "mq_sensors.h" // Thư viện cảm biến MQ2 & MQ135 dùng chung ADC
 #include "buzzer.h"
 #include "button.h"
 
